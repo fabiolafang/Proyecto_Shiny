@@ -25,7 +25,7 @@ Este proyecto se enmarca en el desarrollo de una aplicación analítica interact
 ### Entregables
 - Aplicación Shiny completamente funcional
 - Repositorio Git documentado
-- Análisis replicable y transparente
+- Bases de datos ajustadas
 
 
 ### Datos
